@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dio - Cartão de Visitas</string>
+    <string name="label_cartao_visitas">Cartão de Visitas</string>
+    <string name="add_button">Botão para inclusão de cartões</string>
 </resources>
