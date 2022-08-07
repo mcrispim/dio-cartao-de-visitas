@@ -2,4 +2,12 @@
     <string name="app_name">Dio - Cartão de Visitas</string>
     <string name="label_cartao_visitas">Cartão de Visitas</string>
     <string name="add_button">Botão para inclusão de cartões</string>
+    <string name="novo_cartao">Novo Cartão</string>
+    <string name="botao_para_cancelar_a_operacao">Botão para cancelar a operação.</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="empresa">Empresa</string>
+    <string name="cor">Cor</string>
+    <string name="confirmar">Confirmar</string>
 </resources>
