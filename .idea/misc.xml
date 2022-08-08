@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Mauro/Documents/GitHub/dio-cartao-de-visitas/app/src/main/res/layout/activity_add_cartao.xml" value="0.55" />
+        <entry key="..\:/Users/Mauro/Documents/GitHub/dio-cartao-de-visitas/app/src/main/res/layout/activity_main.xml" value="0.38903985507246375" />
+        <entry key="..\:/Users/Mauro/Documents/GitHub/dio-cartao-de-visitas/app/src/main/res/layout/item_cartao_visitas.xml" value="0.55" />
         <entry key="..\:/Users/Mauro/Projects/dio-cartao-de-visitas/app/src/main/res/drawable-v24/add-48px.xml" value="0.1785" />
         <entry key="..\:/Users/Mauro/Projects/dio-cartao-de-visitas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1785" />
         <entry key="..\:/Users/Mauro/Projects/dio-cartao-de-visitas/app/src/main/res/drawable/ic_add.xml" value="0.1785" />
