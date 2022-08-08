@@ -10,4 +10,5 @@
     <string name="empresa">Empresa</string>
     <string name="cor">Cor</string>
     <string name="confirmar">Confirmar</string>
+    <string name="sucesso">Cartão cadastrado com sucesso.</string>
 </resources>
