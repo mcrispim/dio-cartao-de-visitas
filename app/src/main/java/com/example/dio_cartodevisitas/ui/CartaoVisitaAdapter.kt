@@ -14,7 +14,7 @@ import java.util.zip.Inflater
 
 class CartaoVisitaAdapter: ListAdapter<CartaoVisitas, CartaoVisitaAdapter.ViewHolder> (DiffCallback()){
 
-    val listenerShare: (View) -> Unit = {}
+    var listenerShare: (View) -> Unit = {}
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val inflater = LayoutInflater.from(parent.context)
