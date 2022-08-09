@@ -39,7 +39,6 @@ class CartaoVisitaAdapter: ListAdapter<CartaoVisitas, CartaoVisitaAdapter.ViewHo
             }
         }
     }
-
 }
 
 class DiffCallback: DiffUtil.ItemCallback<CartaoVisitas>() {
